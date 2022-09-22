@@ -1,8 +1,6 @@
-#program docstring
 '''
 Rowen Daly
 January 2022
-This is period 5's TIC-TAC-TOE
 '''
 #import statements go next
 import random
