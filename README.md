@@ -1,2 +1,2 @@
-# PythonPortfolio
-A digital folder containing some of my works in python from 2021-22
+# TicTacToe
+A digital version of tic tac toe coded in python
